@@ -22,14 +22,14 @@
 ```js
 const nathan = {
   username: "nathanfsr_",
-  role:     "Junior Web Developer",          // EDIT
-  location: "Indonesia",                     // EDIT
+  role:     "Junior Software Engineer",          
+  location: "Indonesia",                     
   currently: {
-    building: "your current project",        // EDIT
-    learning: ["TypeScript", "React"],       // EDIT
+    building: "Raciq: The Ultimate AI Cooking Assistant",        
+    learning: ["TypeScript", "React"],       
   },
-  stack: ["HTML", "CSS", "JavaScript", "PHP"], // EDIT
-  funFact: "I debug with music on.",         // EDIT
+  stack: ["HTML", "CSS", "JavaScript", "PHP"], 
+  funFact: "I debug with music on.",         
   openTo: ["collabs", "side projects", "learning together"],
 
   hireMe() {
